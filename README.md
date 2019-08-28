@@ -1,4 +1,4 @@
-# PROJECTS | Data Science and Analytics, MSc | Nilufa Yeasmin | Ryerson University
+# Data_Science_Projects | Data Science and Analytics, MSc | Nilufa Yeasmin | Ryerson University
 
 Hello and Welcome to my Portfolio Folder!
 
