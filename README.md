@@ -9,6 +9,7 @@ It includes the following:
   2. ADV_Presentation_Final (PowerPoint Presentation of Final Project  for the Course Advanced Data Visualization)
   3. Project Documentation ADV_updated (PDF Report of Final Project for the Course Advanced Data Visualization)
   4. Term Frequency-Inverse Document Frequency Calculation in Map Reduce using Hadoop (PDF Report of Final Project for the Course       Management of Big Data and Big Data Tools)
+  5. Fake_News_Generator_Detector (IPython Notebook Script of Final Project for the Course Natural Language Processing)
   
  
  
